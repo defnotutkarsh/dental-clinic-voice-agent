@@ -79,3 +79,10 @@ Go to `http://localhost:3000`
 - ngrok free tier gives you a new URL every restart — you have to update it in ElevenLabs each time
 - The `ngrok-skip-browser-warning` header is set in the ElevenLabs tool config to avoid the ngrok warning page
 - `.env` is in `.gitignore` so credentials don't get pushed
+## Screenshots
+
+### Frontend - Voice Agent & Appointments
+![Appointments](screenshots/frontend-appointments.png)
+
+### Frontend - Conversation Transcripts
+![Transcripts](screenshots/frontend-transcripts.png)
